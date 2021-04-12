@@ -1,0 +1,5 @@
+api_echange_rate:
+  path: /api/echange-rate
+  controller: App\Controller\ExchangeRateController::index
+api_login_check:
+  path: /api/login_check
